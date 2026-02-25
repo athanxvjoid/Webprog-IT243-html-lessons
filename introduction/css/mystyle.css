@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(161, 161, 161);
+}
+h1 , p{
+  color: navy;
+  margin-left: 20px;
+  font-family: "Lexend Deca", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.center {
+    text-align: center;
+    color: blanchedalmond;
+}
