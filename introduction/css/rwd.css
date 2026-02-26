@@ -100,5 +100,5 @@ body {
   .content {grid-area: 2 / span 4;}
   .facts {grid-area: 2 / span 1;}
   .footer {grid-area: 3 / span 6;}
-
+  
 }
